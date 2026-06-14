@@ -1,4 +1,4 @@
-# Phantom 🧠⚡
+# Phantom 
  
 **Multi-agent adversarial debate system** built with LangGraph, LiteLLM, and Groq.
  
